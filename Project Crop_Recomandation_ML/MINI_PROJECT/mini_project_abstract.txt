@@ -1,0 +1,7 @@
+							Abstract
+
+In the pursuit of enhancing agricultural productivity and sustainability, this project aims to develop a machine learning-based system to recommend the most suitable crop for cultivation based on various environmental and soil parameters. The dataset used includes key features such as nitrogen, phosphorus, potassium, temperature, humidity, pH, and rainfall. By leveraging multiple machine learning algorithms, including Decision Trees, Random Forests, and Logistic Regression, the project identifies the optimal model for accurate crop prediction.
+
+Through comprehensive Exploratory Data Analysis (EDA) and feature importance evaluation, the project highlights the critical role of factors like humidity, rainfall, and nutrient levels in determining the best crop choices. The developed model aims to assist farmers and agricultural planners in making data-driven decisions, thereby optimizing resource use and boosting crop yields. Initial results indicate that the Random Forest model and Decision Tree model provides high accuracy and reliability in crop recommendation.
+
+This project represents a significant step towards precision agriculture, offering actionable insights and practical tools to support sustainable farming practices.
